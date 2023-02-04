@@ -3,11 +3,11 @@ Datasets featuring the dialogue from 6 star trek series, along with a jupyter no
 
 ### which characters had the most lines?
 
-`[('PICARD', 12438)
+`('PICARD', 12438)`
 
 ### Which series had the most lines:
 
-`[('VOY', 68335),
+`('VOY', 68335)`
 
 
 ### What percentage of the lines belong to the captain
