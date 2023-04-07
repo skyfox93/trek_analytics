@@ -19,4 +19,4 @@ Datasets featuring the dialogue from 6 star trek series, along with a jupyter no
 'VOY': 0.16607887612497257}`
  
 ### which Star Trek DS9 character is happiest?
- Emotional analysis using a pythong library text2emotion suggests it is Garak, although he may have been being sarcastic.
+ Emotional analysis using the python library text2emotion suggests it is Garak, although he may have been being sarcastic.
